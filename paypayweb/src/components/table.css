@@ -1,0 +1,22 @@
+table.App-table {
+  background-color: #fff;
+  border: 1px solid #959595;
+}
+
+table.App-table thead th {
+  color: #666;
+  border: 1px solid #959595;
+}
+
+table.App-table td {
+  border-style: double;
+  color: #666;
+  border: 1px solid #959595;
+}
+
+table.App-table tr.hover {
+  cursor: pointer;
+  border-style: double;
+  color: #000;
+  background-color: #75c5eb;
+}
